@@ -2,4 +2,5 @@
 1. Git commit
 2. Git push
 3. Git pull
-4. Git checkout
+4. Git branch
+5. Git checkout
